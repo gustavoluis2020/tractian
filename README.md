@@ -1,16 +1,15 @@
 # tractian_assets
 
-A new Flutter project.
+This is a Tractian challenge
 
-## Getting Started
+* I used Clean Architecture.
+* For state management, routes and dependency injections used Getx.
+* For Api http client.
+* other packages
+  * dartz 
+  * equatable
+  * flutter svg
+  * shimmer
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/a99a61d9-b48a-4759-a661-783020df39f1
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
